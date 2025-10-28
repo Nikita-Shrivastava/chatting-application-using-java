@@ -206,4 +206,4 @@ public class Server implements ActionListener{
 }
 // frame ko reload krna hoga taaki jb msg send kre to wo show ho righr side- repaint(), invalidate(), validate()
 //server socket ek hote hai pr sockets multiple ho skte hai....
-//some new changes
+//some new changes  bhhhhh
